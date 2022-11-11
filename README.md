@@ -1,3 +1,13 @@
+# このプロジェクトについて
+
+AWS + SupabaseのWorkshopにて利用したプロジェクトで、Publicにしていますが
+基本的には個人的な成果物となっております。
+
+以下の
+`create-next-app` をご覧いただいて利用されることをお勧めします！
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
